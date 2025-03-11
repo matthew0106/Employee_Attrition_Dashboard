@@ -1,5 +1,8 @@
 # Employee Attrition Analysis Dashboard
 
+![image](https://github.com/user-attachments/assets/aa65ce2a-0901-44fa-85c0-31e03545743a)
+
+
 ## 📊 Overview
 This dashboard provides insights into employee attrition by analyzing correlations between key factors such as **income, job satisfaction, and overtime frequency**. The visualizations help identify patterns in attrition trends and offer data-driven recommendations.
 
